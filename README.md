@@ -1,3 +1,3 @@
 # temp
-remote_theme: jeromelachaud/freelancer-theme
+remote_theme: freelancer-theme
 
