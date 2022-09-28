@@ -1,3 +1,3 @@
 # temp
-remote_theme: freelancer-theme-jekyll
+git clone https://github.com/BlackrockDigital/startbootstrap-freelancer.git
 
