@@ -1,4 +1,4 @@
 # temp
-#Build settings
-remote_theme: jeromelachaud/freelancer-theme
+# Build settings
+remote_theme: freelancer-theme-jekyll
 
