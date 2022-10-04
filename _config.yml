@@ -1,3 +1,2 @@
-$ git clone https://github.com/cururinoir/mediator
-$ bundle install 
-$ bundle exec jekyll serve
+#Build settings
+remote_theme: pages-themes/architect@v0.2.0
