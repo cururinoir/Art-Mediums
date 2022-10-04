@@ -1,5 +1,5 @@
 # Top 3 Art Mediums (for me) 
-
+#### Here, I'll be listing my three favorite art mediums that I have tried so far, as well as some examples of my art for each medium. 
 ## 3. Charcoal
 ![image](Untitled103_20221004053030.png | width=500)
 <p align = "center">
