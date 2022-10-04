@@ -1,33 +1,3 @@
-# Build settings
-gems:
-  - jemoji
-  - jekyll-paginate
-
-# Site settings
-title: "Top 3 Art Mediums"
-description: > # this means to ignore newlines until "email:"
-   Here, I’ll be listing my three favorite art mediums that I have tried so far, as well as some examples of my art for each medium.
-#blog logo
-logo: "/assets/images/df_logo.jpg"
-float_logo: true # true, false (default)
-
-# blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-
-name: 'Top 3 Art Mediums'
-author: 'Roseline Kim'
-author_image: "/assets/images/author.jpg"
-
-paginate:	5
-
-url: "http://myblog.***.***" # the base hostname & protocol for your site
-baseurl: ""
-#used to display twitter cards
-twitter_handle: '@cururinoir'
-
-
-# social icons and sharing options
-social:
-  - icon:	twitter
-    url:	https://twitter.com/cururinoir
-
+$ git clone https://github.com/cururinoir/mediator
+$ bundle install 
+$ bundle exec jekyll serve
